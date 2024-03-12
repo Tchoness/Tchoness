@@ -3,7 +3,8 @@
 <!--
 **Tchoness/Tchoness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Caito Canal, a passionate software developer and tech enthusiast. I currently work as a Software Developer as a self-employed. 
+With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
