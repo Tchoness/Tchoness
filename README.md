@@ -26,8 +26,3 @@ Throughout my journey, I worked as a Junior Backend Developer, delving into the 
 ### 🌐 Socials 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caito-canal-10726659/)
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchoness&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
