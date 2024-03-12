@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 
 ![Counter](https://komarev.com/ghpvc/?username=Tchoness&color=brightgreen&style=plastic&label=Views)
 
 ### 🚀 Expertise
@@ -9,7 +8,7 @@ Throughout my journey, I worked as a Junior Backend Developer, delving into the 
 
  Beyond my professional environment, I am an enthusiast of extreme sports, a passionate gamer (any FPS is my domain), an avid reader, and always eager to understand where technology is heading. Currently, my focus of study lies in the fascinating field of Artificial Intelligence.
 
-🚀🔧🤖
+
 
 ### 💻 Tech Stack
 
@@ -28,4 +27,9 @@ Throughout my journey, I worked as a Junior Backend Developer, delving into the 
 
 ### 🌐 Socials 
 
-![Linkedin](https://www.linkedin.com/in/caito-canal-10726659/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caito-canal-10726659/)
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchoness&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
