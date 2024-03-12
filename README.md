@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there <a><img src="https://github.com/Tchoness/images/blob/master/maozinha.gif" alt="AWS" width="30" height="30"/></a>
 ![Counter](https://komarev.com/ghpvc/?username=Tchoness&color=brightgreen&style=plastic&label=Views)
 
 ### 🚀 Expertise
@@ -8,9 +8,7 @@ Throughout my journey, I worked as a Junior Backend Developer, delving into the 
 
  Beyond my professional environment, I am an enthusiast of extreme sports, a passionate gamer (any FPS is my domain), an avid reader, and always eager to understand where technology is heading. Currently, my focus of study lies in the fascinating field of Artificial Intelligence.
 
-
-
-### 💻 Tech Stack
+###  Tech Stack 💻
 
 ![Python](https://camo.githubusercontent.com/ff5bae8b465bd0867d4f1b51360e74b93efc962e62c025001c0af0cdf067d496/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 ![C++](https://camo.githubusercontent.com/1c1b141d32f5e01a0c794c685f1c38f7b857f1ecdf6e0772ad38ded52529c675/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
